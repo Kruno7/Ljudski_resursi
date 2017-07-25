@@ -1,0 +1,13 @@
+{
+    "name": "kruno/ljudski_resursi",
+    "description": "Ljudski resursi",
+    "authors": [
+        {
+            "name": "Kruno Boras",
+            "email": "kruno.b@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.0"
+    }
+}
